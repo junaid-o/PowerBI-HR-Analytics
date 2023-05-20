@@ -1,3 +1,3 @@
 # PowerBI-HR-Analytics
 
-![DEMO][Picture1.png]
+![MusicDatabaseSchema](dashboard.png)
